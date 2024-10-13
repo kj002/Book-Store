@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/clearFields"
+        android:title="Clear Fields" />
+    <item
+        android:id="@+id/loadData"
+        android:title="Load Data" />
+    <item
+        android:id="@+id/totalBooks"
+        android:title="Total Books" />
+    <item
+        android:id="@+id/deleteUnknownAuthors"
+        android:title="Delete Unknown Authors" />
+</menu>
